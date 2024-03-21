@@ -29,3 +29,8 @@ NPM is a package manager and registry specifically designed for Node.js, allowin
 
 ## Package Manager and Registry
 A package manager simplifies the process of managing the code dependencies of your project, making it easy to incorporate new code and maintain consistency across installations. The package registry makes it trivial to share your code with others and access code shared by the community.
+
+
+### Resources Reviewed:
+- **YouTube Tutorial**: "Intro to Node.js and npm" by freeCodeCamp.org. Followed along with code examples to reinforce learning.
+- **GitHub Repository**: Explored sample projects on TypeScript best practices. Analyzed code structure and type usage patterns.

@@ -33,4 +33,4 @@ A package manager simplifies the process of managing the code dependencies of yo
 
 ### Resources Reviewed:
 - **YouTube Tutorial**: "Intro to Node.js and npm" by freeCodeCamp.org. Followed along with code examples to reinforce learning.
-- **GitHub Repository**: Explored sample projects on TypeScript best practices. Analyzed code structure and type usage patterns.
+- **GitHub Repository**: Explored sample projects on Node.Js and npm best practices. Analyzed code structure and type usage patterns.
